@@ -84,6 +84,23 @@ body {
     white-space: nowrap;
     color: #fff;
   }
+  
+  .green {
+    background-color: #115A58;
+  }
+
+  .orange {
+    background-color: #F37E64;
+  }
+
+  .red {
+    background-color: #E86262;
+  }
+
+.blue {
+    background-color: #27A5A4; 
+  }
+
   .invert {
     color: #000;
     background: #eee;
